@@ -1,0 +1,14 @@
+G:\base folder\stuff\Progstuff\Projects\IFGame1\bin\Debug\net8.0\IFGame1.exe
+G:\base folder\stuff\Progstuff\Projects\IFGame1\bin\Debug\net8.0\IFGame1.deps.json
+G:\base folder\stuff\Progstuff\Projects\IFGame1\bin\Debug\net8.0\IFGame1.runtimeconfig.json
+G:\base folder\stuff\Progstuff\Projects\IFGame1\bin\Debug\net8.0\IFGame1.dll
+G:\base folder\stuff\Progstuff\Projects\IFGame1\bin\Debug\net8.0\IFGame1.pdb
+G:\base folder\stuff\Progstuff\Projects\IFGame1\obj\Debug\net8.0\IFGame1.GeneratedMSBuildEditorConfig.editorconfig
+G:\base folder\stuff\Progstuff\Projects\IFGame1\obj\Debug\net8.0\IFGame1.AssemblyInfoInputs.cache
+G:\base folder\stuff\Progstuff\Projects\IFGame1\obj\Debug\net8.0\IFGame1.AssemblyInfo.cs
+G:\base folder\stuff\Progstuff\Projects\IFGame1\obj\Debug\net8.0\IFGame1.csproj.CoreCompileInputs.cache
+G:\base folder\stuff\Progstuff\Projects\IFGame1\obj\Debug\net8.0\IFGame1.dll
+G:\base folder\stuff\Progstuff\Projects\IFGame1\obj\Debug\net8.0\refint\IFGame1.dll
+G:\base folder\stuff\Progstuff\Projects\IFGame1\obj\Debug\net8.0\IFGame1.pdb
+G:\base folder\stuff\Progstuff\Projects\IFGame1\obj\Debug\net8.0\IFGame1.genruntimeconfig.cache
+G:\base folder\stuff\Progstuff\Projects\IFGame1\obj\Debug\net8.0\ref\IFGame1.dll
